@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799590799834",
+    "project_id": "evacuationapp-f33a9",
+    "storage_bucket": "evacuationapp-f33a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799590799834:android:837ea817ab374ec46308e3",
+        "android_client_info": {
+          "package_name": "com.codingstuff.instag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799590799834-4732vtqhpk0sva18s3ad7va9cdic5a3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIH5T2od308BYK8ON1vjPpHfidYUGQrKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799590799834-4732vtqhpk0sva18s3ad7va9cdic5a3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
